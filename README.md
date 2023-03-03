@@ -64,7 +64,7 @@ I am a beginner software engineer climing to reach the top of programming. All p
  
  **`[16/02/2023] : Starting My C language journey.`**
  
- **`[26/02/2023] : I mad my first own program using C`** [MySideProjects](../MySideProjetcs/Freaquence_Calculator/).
+ **`[26/02/2023] : I mad my first own program using C`** [MySideProjects](../MySideProjetcs/Freaquence_Calculator).
 
 
 
