@@ -30,6 +30,11 @@ I am a beginner software engineer climing to reach the top of programming. All p
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=badrbnh&theme=gruvbox&border_radius=4.5) -->
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badrbnh" alt="badrbnh" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=badrbnh&show_icons=true&locale=en&layout=compact" alt="badrbnh" /></p>
+
 #
 
 ## ☎️ Contact me.
