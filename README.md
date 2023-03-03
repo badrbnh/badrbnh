@@ -17,29 +17,6 @@ I am a beginner software engineer climing to reach the top of programming. All p
 
 
 ---
-
-### 🧰 Languages and Tools
-
-[![My Skills](https://skillicons.dev/icons?i=c,bash,linux,git,github&perline=5)](https://skillicons.dev)
-
-#
-
-### 📊 Stats
-
-![Badr's GitHub stats](https://github-readme-stats.vercel.app/api?username=badrbnh&show_icons=true&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
-
-<p><img align="center" width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=badrbnh&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="badrbnh" /></p>
-
-<p><img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs?username=badrbnh&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="badrbnh" /></p>
-
-#
-
-### ☎️ Contact me.
-
-----
-
-[<img align="left" alt="Bash" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/Badrbnh001) [<img align="left" alt="Bash" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/badr-bnh-576802265) [<img src="https://www.freepnglogos.com/uploads/email-png/email-logo-communications-brands-and-logotypes-gmail-14.png" width="25px" alt="email logo communications brands and logotypes gmail" /></a>](mailto:badrechahide@gmail.com)
-#
 <details>
  <summary><h3>👨‍💻 Badr's Coding Journey</h3></summary>
  
@@ -61,7 +38,40 @@ I am a beginner software engineer climing to reach the top of programming. All p
  
  **`[26/02/2023] : I mad my first own program using C`** [MySideProjects](https://github.com/badrbnh/MySideProjetcs/tree/main/Freaquence_Calculator).
 
+</details>
 
+---
+
+# 🧰 Languages and Tools
+
+![My Skills](https://skillicons.dev/icons?i=c,bash,linux,vscode,vim,emacs,git,github&perline=10)
+
+---
+
+# 📊 Stats
+
+<details>
+         
+![Badr's GitHub stats](https://github-readme-stats.vercel.app/api?username=badrbnh&show_icons=true&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+
+<p><img align="center" width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=badrbnh&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="badrbnh" /></p>
+
+<p><img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs?username=badrbnh&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="badrbnh" /></p>
+
+</details>
+
+---
+
+# ☎️Contact me.
+
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Badrbnh001)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/badr-bnh-576802265/)
+
+---
+
+Thanks For Stopping by! ✌
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=badrbnh&label=Profile%20views&color=0e75b6&style=flat" alt="badrbnh" /> </p>
 
 
 
