@@ -8,7 +8,10 @@ I am a beginner software engineer climing to reach the top of programming. All p
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/badrbnh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/badrbnh?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/badrbnh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   <a href="https://github.com/badrbnh?tab=viwers">
+   <img width=100 src="https://komarev.com/ghpvc/?username=badrbnh&label=Profile%20views&color=E3242B&style=flat" alt="badrbnh" />
    </p>
+
 
 ---
 
@@ -26,14 +29,11 @@ I am a beginner software engineer climing to reach the top of programming. All p
 
 ### 📊 Stats
 
-![Badr's GitHub stats](https://github-readme-stats.vercel.app/api?username=badrbnh&show_icons=true&theme=gruvbox)
+![Badr's GitHub stats](https://github-readme-stats.vercel.app/api?username=badrbnh&show_icons=true&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=badrbnh&theme=gruvbox&border_radius=4.5) -->
+<p><img align="center" width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=badrbnh&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="badrbnh" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badrbnh" alt="badrbnh" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=badrbnh&show_icons=true&locale=en&layout=compact" alt="badrbnh" /></p>
+<p><img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs?username=badrbnh&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="badrbnh" /></p>
 
 #
 
