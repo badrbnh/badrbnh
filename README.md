@@ -47,12 +47,22 @@ I am a beginner software engineer climing to reach the top of programming. All p
 <details>
  <summary><h2>📊 Stats</h2></summary>
          
-![Badr's GitHub stats](https://github-readme-stats.vercel.app/api?username=badrbnh&show_icons=true&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+<p><img align="center" width="470" src="https://github-readme-stats.vercel.app/api?username=badrbnh&show_icons=true&theme=radical" alt="badrbnh" /></p>
 
-<p><img align="center" width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=badrbnh&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="badrbnh" /></p>
+<p><img align="center" width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=badrbnh&theme=radical" alt="badrbnh" /></p>
 
-<p><img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs?username=badrbnh&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="badrbnh" /></p>
+<p><img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrbnh&theme=radical" alt="badrbnh" /></p>
 
+</details>
+
+---
+<details>
+
+ <summary><h2>🏆 Throphies</h2></summary>
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=badrbnh&theme=radical)
+         
 </details>
 
 ---
