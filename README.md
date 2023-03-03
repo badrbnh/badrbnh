@@ -34,7 +34,9 @@ I am a beginner software engineer climing to reach the top of programming. All p
 
 #
 
-## ☎️ Contact me.
+### ☎️ Contact me.
+
+----
 
 [<img align="left" alt="Bash" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/Badrbnh001) [<img align="left" alt="Bash" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/badr-bnh-576802265) [<img src="https://www.freepnglogos.com/uploads/email-png/email-logo-communications-brands-and-logotypes-gmail-14.png" width="25px" alt="email logo communications brands and logotypes gmail" /></a>](mailto:badrechahide@gmail.com)
 #
