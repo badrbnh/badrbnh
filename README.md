@@ -1,9 +1,5 @@
 # 👨‍💻 Badreddine Bentiah
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=B422CD&width=435&lines=Welcome+to+my+GitHub.;I+hope+you+like+it.)](https://git.io/typing-svg)
-
-#
-
 **`Digital Craftsman (Software engineer)`**
 
 I am a beginner software engineer climing to reach the top of programming. All projects either are built from the ground up, from planning and designing all the way to solving real-life problems with code, or from the bootcamp that teaching me to reach my goal.
@@ -18,7 +14,7 @@ I am a beginner software engineer climing to reach the top of programming. All p
 
 ---
 <details>
- <summary><h1>👨‍💻 Badr's Coding Journey</h3></summary>
+ <summary><h2>👨‍💻 Badr's Coding Journey</h2></summary>
  
  **`[23/01/2023] : I started my programing journey with ALX SE program.`**
  
@@ -42,14 +38,14 @@ I am a beginner software engineer climing to reach the top of programming. All p
 
 ---
 
-# 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 ![My Skills](https://skillicons.dev/icons?i=c,bash,linux,vscode,vim,emacs,git,github&perline=10)
 
 ---
 
 <details>
- <summary><h1>📊 Stats</h1></summary>
+ <summary><h2>📊 Stats</h2></summary>
          
 ![Badr's GitHub stats](https://github-readme-stats.vercel.app/api?username=badrbnh&show_icons=true&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 
@@ -61,7 +57,7 @@ I am a beginner software engineer climing to reach the top of programming. All p
 
 ---
 
-# ☎️Contact me.
+## ☎️Contact me.
 
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Badrbnh001)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/badr-bnh-576802265/)
