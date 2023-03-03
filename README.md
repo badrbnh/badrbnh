@@ -1,5 +1,9 @@
 # 👨‍💻 Badreddine Bentiah
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=B422CD&width=435&lines=Welcome+to+my+GitHub.;I+hope+you+like+it.)](https://git.io/typing-svg)
+
+#
+
 **`Digital Craftsman (Software engineer)`**
 
 I am a beginner software engineer climing to reach the top of programming. All projects either are built from the ground up, from planning and designing all the way to solving real-life problems with code, or from the bootcamp that teaching me to reach my goal.
@@ -9,7 +13,6 @@ I am a beginner software engineer climing to reach the top of programming. All p
       <a href="https://github.com/badrbnh?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/badrbnh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    <a href="https://github.com/badrbnh?tab=viwers">
-   <img width=100 src="https://komarev.com/ghpvc/?username=badrbnh&label=Profile%20views&color=E3242B&style=flat" alt="badrbnh" />
    </p>
 
 
@@ -17,13 +20,7 @@ I am a beginner software engineer climing to reach the top of programming. All p
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+[![My Skills](https://skillicons.dev/icons?i=c,bash,linux,git,github&perline=5)](https://skillicons.dev)
 
 #
 
