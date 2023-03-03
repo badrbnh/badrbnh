@@ -47,11 +47,11 @@ I am a beginner software engineer climing to reach the top of programming. All p
 <details>
  <summary><h2>📊 Stats</h2></summary>
          
-<p><img width="300" src="https://github-readme-stats.vercel.app/api?username=badrbnh&show_icons=true&theme=radical" alt="badrbnh"
+<p><img width="350" src="https://github-readme-stats.vercel.app/api?username=badrbnh&show_icons=true&theme=radical" alt="badrbnh"
 
-<p><img width="320" src="https://github-readme-streak-stats.herokuapp.com/?user=badrbnh&theme=radical" alt="badrbnh"
+<p><img width="370" src="https://github-readme-streak-stats.herokuapp.com/?user=badrbnh&theme=radical" alt="badrbnh"
 
-<p><img width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrbnh&theme=radical" alt="badrbnh" /></p>
+<p><img width="265" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrbnh&theme=radical" alt="badrbnh" /></p>
 
 </details>
 
