@@ -65,6 +65,7 @@ I am a beginner software engineer climing to reach the top of programming. All p
 
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Badrbnh001)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/badr-bnh-576802265/)
+[<img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-brand-brands-gmail-logo-logos-icon-22.png" width="53" alt="logo gmail png brand brands gmail logo logos icon" /></a>](mailto:badrbentiah@gmail.com)
 
 ---
 
