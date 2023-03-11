@@ -57,6 +57,21 @@ I am a beginner software engineer climing to reach the top of programming. All p
 </details>
 
 ---
+<details>
+ <summary><h2>🖋 Favorite quotes</h2></summary>
+   
+   <p>
+      
+     Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
+                                                      -- by: Samuel Beckett.
+      
+   </p>
+   
+   by: Samuel Beckett
+   
+</details>
+
+---
 
 ## 🧰 Languages and Tools
 
