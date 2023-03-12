@@ -60,14 +60,22 @@ I am a beginner software engineer climing to reach the top of programming. All p
 <details>
  <summary><h2>🖋 Favorite quotes</h2></summary>
    
-   <p>
       
-     Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
-                                                      -- by: Samuel Beckett.
-      
-   </p>
    
-   by: Samuel Beckett
+      
+   `Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.`
+   
+   
+  
+  
+   `When something bad happens you have three choices. You can either let it define you, let is destroy you, or you can let it strengthen you.`
+   
+   
+   
+      
+
+  
+   
    
 </details>
 
