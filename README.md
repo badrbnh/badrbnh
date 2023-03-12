@@ -72,7 +72,7 @@ I am a beginner software engineer climing to reach the top of programming. All p
   
    ```
    When something bad happens you have three choices. You can either let it define you, 
-   let is destroy you, or you can let it strengthen you.
+   let it destroy you, or you can let it strengthen you.
    ```
    
    
