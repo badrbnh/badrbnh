@@ -63,12 +63,17 @@ I am a beginner software engineer climing to reach the top of programming. All p
       
    
       
-   `Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.`
+   ```
+   Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
+   ```
    
    
   
   
-   `When something bad happens you have three choices. You can either let it define you, let is destroy you, or you can let it strengthen you.`
+   ```
+   When something bad happens you have three choices. You can either let it define you, 
+   let is destroy you, or you can let it strengthen you.
+   ```
    
    
    
