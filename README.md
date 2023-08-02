@@ -88,7 +88,7 @@ I am a beginner software engineer climing to reach the top of programming. All p
 
 ## 🧰 Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=c,bash,linux,vscode,vim,emacs,git,github&perline=10)
+![My Skills](https://skillicons.dev/icons?i=c,python,ruby,bash,linux,vscode,vim,emacs,git,github&perline=10)
 
 ---
 
