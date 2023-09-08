@@ -33,30 +33,7 @@ I am a beginner software engineer climing to reach the top of programming. All p
 
 
 ---
-<details>
- <summary><h2>👨‍💻 Badr's Coding Journey</h2></summary>
- 
- **`[23/01/2023] : I started my programing journey with ALX SE program.`**
- 
- **`[25/01/2023] : Learned how to navigate through Shell.`**
- 
- **`[26/01/2023] : I learnt Vi/Vim and Emacs editors.`**
- 
- **`[27/01/2023] : I learnt Git and Github.`**
- 
- **`[27/01/2023] : Started understanding the algorithem, psuedocode and flowchart.`**
- 
- **`[07/02/2023] : Diving deep in Shell.`**
- 
- **`[10/02/2023] : Learned Visual Studio Code editor.`**
- 
- **`[16/02/2023] : Starting My C language journey.`**
- 
- **`[26/02/2023] : I mad my first own program using C`** [MySideProjects](https://github.com/badrbnh/MySideProjetcs/tree/main/Freaquence_Calculator).
 
-</details>
-
----
 <details>
  <summary><h2>🖋 Favorite quotes</h2></summary>
    
