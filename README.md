@@ -22,7 +22,7 @@
 
 **`Digital Craftsman (Software engineer)`**
 
-I am a beginner software engineer climing to reach the top of programming. All projects either are built from the ground up, from planning and designing all the way to solving real-life problems with code, or from the bootcamp that teaching me to reach my goal.
+I am a software engineer climing to reach the top of innovating. All projects either are built from the ground up, from planning and designing all the way to solving real-life problems with code, or from the bootcamp that teaching me to reach my goal.
 
 <a href="https://github.com/badrbnh?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/badrbnh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
