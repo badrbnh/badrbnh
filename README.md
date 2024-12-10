@@ -65,7 +65,7 @@ I am a software engineer climing to reach the top of innovating. All projects ei
 
 ## 🧰 Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=c,python,flask,django,mongodb,mysql,postgresql,ruby,html,css,js,ts,bootstrap,bash,linux,nginx,docker,vscode,vim,emacs,git,github&perline=10)
+![My Skills](https://skillicons.dev/icons?i=c,python,java,spring,flask,django,mongodb,mysql,postgresql,ruby,html,css,js,ts,bootstrap,bash,linux,nginx,docker,vscode,vim,emacs,git,github&perline=10)
 
 ---
 
